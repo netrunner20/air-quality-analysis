@@ -1,6 +1,6 @@
 # Air Quality and Health in the United States
 
-**Hyundam Choi · Yunchae Lee · Gyuryang Lee** — Datathon 2026 · [Full report (PDF)](Report.pdf) · [Interactive Tableau map](https://public.tableau.com/shared/XGGXP5N4T?:display_count=n&:origin=viz_share_link)
+**Hyundam Choi · Yunchae Lee · Gyuryang Lee** · [Full report (PDF)](Report.pdf) · [Interactive Tableau map](https://public.tableau.com/shared/XGGXP5N4T?:display_count=n&:origin=viz_share_link)
 
 Bad air is a risk for everyone, but how much harm it does depends on who is breathing it. Using the EPA's 2025 county-level Air Quality Index (AQI) data, this project asks two questions:
 
